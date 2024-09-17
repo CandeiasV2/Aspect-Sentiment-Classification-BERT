@@ -45,3 +45,10 @@ The proposed model achieved an accuracy of 74.13% and a macro-F1 score of 73.05%
 
 ## Conclusion
 Using a pretrained BERT model with effective text preprocessing, we successfully surpassed the baseline model's performance in aspect-based sentiment classification on the Twitter dataset. Despite some limitations, such as longer training times and sensitivity to learning rates, this approach shows promise for further optimization. Future work could explore lighter-weight versions of BERT, like DistilBERT, to reduce computational costs while maintaining high accuracy.
+
+## References
+
+[1] L. Wang et al., “Aspect-based sentiment classification via reinforcement learning,” 2021 IEEE International Conference on Data Mining (ICDM), pp. 1391–1396, Dec. 2021. [doi:10.1109/icdm51629.2021.00177](https://doi.org/10.1109/icdm51629.2021.00177)
+
+[2] “Bert - Hugging face,” Hugging Face, [https://huggingface.co/docs/transformers/model_doc/bert](https://huggingface.co/docs/transformers/model_doc/bert) (accessed Nov. 15, 2023).
+
