@@ -38,7 +38,7 @@ The proposed model achieved an accuracy of 74.13% and a macro-F1 score of 73.05%
 | ASGCN-DT [1]| 71.53    | 69.68    |
 | ASGCN-DG [1]| 72.15    | 70.40    |
 | SentRL [1]  | 73.12    | 71.64    |
-| **Our Model**   | **75.14**    | **73.84**    |
+| **Our Model**   | **74.13**    | **73.05**    |
 
 </div>
 
