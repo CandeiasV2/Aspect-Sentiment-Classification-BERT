@@ -1,5 +1,5 @@
 # Sentiment Analysis for Neural Information Processing and Retrieval
-This project was accomplished for the "Neural Information Processing and Retrieval" class. The task was to attempt to outperform the baseline model proposed in the paper "[Aspect-based Sentiment Classification via Reinforcement Learning](https://ieeexplore.ieee.org/document/9679112)" using an alternative model on the same dataset.
+This project was accomplished for the "Neural Information Processing and Retrieval" class. The task was to attempt to outperform the baseline model proposed in the paper "[Aspect-based Sentiment Classification via Reinforcement Learning](https://ieeexplore.ieee.org/document/9679112)" using an alternative model on the same dataset. The dataset used in this project can be located and downloaded from the original paper.
 
 ## Overview
 The focus of this project was on aspect-based sentiment classification (ABSC), which involves determining the sentiment of a specific aspect within a given text. Using the Twitter dataset, we aimed to improve sentiment classification accuracy. The approach leveraged a fine-tuned pretrained BERT model from the HuggingFace library, renowned for its capability to handle complex natural language processing (NLP) tasks effectively.
